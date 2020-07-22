@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div>
             <blockquote
-      class="tiktok-embed"
+      className="tiktok-embed"
       cite="https://www.tiktok.com/@scout2015/video/6718335390845095173"
       data-video-id="6718335390845095173"
     >
